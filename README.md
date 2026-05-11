@@ -92,6 +92,14 @@ K-means clustering performed directly in the original feature space showed limit
 
 ---
 
+### Marker enrichment analysis
+
+![Marker enrichment](figures/marker_enrichment.png)
+
+Although the average marker expression profiles remain relatively similar across clusters, Cluster 3 exhibits noticeably increased `PE-A` expression compared to the other populations. This enrichment is not associated with a strongly isolated UMAP region, suggesting that the corresponding variation may primarily affect localized marker intensity rather than the global manifold structure of the dataset.
+
+---
+
 ### Cluster composition across experimental conditions
 
 ![Condition heatmap](figures/condition_cluster_heatmap.png)
