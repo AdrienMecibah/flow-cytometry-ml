@@ -1,0 +1,8 @@
+scikit-learn
+matplotlib
+umap-learn
+flowkit=1.3.2
+pandas 
+numpy 
+notebook
+plotly
